@@ -46,7 +46,7 @@ function_find_word_2variable() {
                                 echo -e "Input log file name be search (ex --> 192.168.2.1 *to find file list please chose option 1) press enter: \c"
                                 read file
                                 echo "********************************************************"
-                                echo -e "Input first key word (ex--> Apr atau Apr 25 atau Apr 20 19: ) press enter: \c"
+                                echo -e "Input first key word (ex--> Apr or Apr 25 or Apr 20 19: ) press enter: \c"
                                 read word1 
                                 echo "********************************************************"
                                 echo -e "Input second key word (ex--> flap ) press enter: \c"
